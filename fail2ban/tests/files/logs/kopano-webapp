@@ -1,0 +1,2 @@
+# failJSON: { "time": "2017-03-08T20:03:24", "match": true, "host": "123.123.123.123" }
+[Wed Mar 08 20:03:24.725781 2017] [:error] [pid 12297] [client 123.123.123.123:4453] Kopano WebApp user: to-be-banned: authentication failure at MAPI, referer: https://example.com/webapp/?logon
